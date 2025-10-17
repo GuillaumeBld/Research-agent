@@ -1,4 +1,4 @@
-<p align="center">
+by<p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="assets/logo.svg" alt="logo"></a>
 </p>
@@ -132,12 +132,3 @@ Distributed under the AGPLv3 License. See `LICENSE` for detail.
 - [arxiv](https://github.com/lukasschwab/arxiv.py)
 - [sentence_transformers](https://github.com/UKPLab/sentence-transformers)
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
-
-## ☕ Buy Me A Coffee
-If you find this project helpful, welcome to sponsor me via WeChat or via [ko-fi](https://ko-fi.com/tidedra).
-![wechat_qr](assets/wechat_sponsor.JPG)
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=TideDra/zotero-arxiv-daily&type=Date)](https://star-history.com/#TideDra/zotero-arxiv-daily&Date)
