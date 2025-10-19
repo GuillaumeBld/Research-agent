@@ -1,6 +1,6 @@
-by<p align="center">
+<p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="assets/logo.svg" alt="logo"></a>
+ <img width=200px height=200px src="assets/logo_1.png" alt="logo"></a>
 </p>
 
 <h3 align="center">Zotero-arXiv-Daily</h3>
